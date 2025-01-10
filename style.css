@@ -412,8 +412,8 @@ span {
 .skills .skills-row {
     display: flex;
     flex-wrap: wrap;
-    gap: 0rem;
-    padding-left: 10%;
+    gap: 5rem;
+    padding-left: 1%;
     
 }
 
