@@ -273,20 +273,7 @@ span {
     border: .2rem solid var(--main-color);
 }
 
-.about-img .circle-spin{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%) rotate(0);
-    width: 60%;
-    height: 70%;
-    border-radius: 50%;
-    border-top: .2rem solid rgb(228, 111, 9);
-    border-bottom: .2rem solid rgb(236, 109, 6);
-    border-left: .2rem solid var(--main-color);
-    border-right: .2rem solid var(--main-color);
-    animation: aboutSpinner 8s linear infinite;
-}
+
 
 .about-content {
     text-align: center;
